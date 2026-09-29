@@ -1,0 +1,9 @@
+Feature,Minimum,Maximum,Median
+DO,0.3,8.0,4.7
+pH,1.9,10.0,7.4
+BOD,3.2,450.0,8.0
+COD,24.0,1488.0,80.0
+Nitrate,0.3,63.0,2.7
+Ammonical_N,0.38,200.0,0.71
+Phosphate,0.1,22.0,0.32
+Turbidity,1.0,772.0,13.9

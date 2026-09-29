@@ -1,0 +1,4 @@
+Date,Forecast_HAB_Risk,Lower_CI,Upper_CI,Risk_Class,DSS_Action,Recommendation
+2025-12-01,78.19296475010178,71.05017450726105,85.33575499294251,Very High,Early Warning,"Prioritize field and laboratory verification, inspect pollution inflows, and assess appropriate mitigation measures."
+2026-01-01,78.27374116068569,70.94849711736605,85.59898520400533,Very High,Early Warning,"Prioritize field and laboratory verification, inspect pollution inflows, and assess appropriate mitigation measures."
+2026-02-01,78.33612345114466,70.90419210498483,85.76805479730449,Very High,Early Warning,"Prioritize field and laboratory verification, inspect pollution inflows, and assess appropriate mitigation measures."

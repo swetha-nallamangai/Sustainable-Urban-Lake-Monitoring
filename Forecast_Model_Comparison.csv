@@ -1,0 +1,4 @@
+Model,MAE,RMSE
+Naive Baseline,4.282,5.697
+ARIMA,4.73,5.405
+Experimental LSTM,4.358,5.555

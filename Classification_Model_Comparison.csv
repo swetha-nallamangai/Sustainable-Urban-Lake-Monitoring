@@ -1,0 +1,5 @@
+Model,Accuracy,F1
+Random Forest - 4 Class,0.3729,0.3651
+XGBoost - 4 Class,0.3465,0.3445
+Random Forest - Binary,0.6403,0.6073
+XGBoost - Binary,0.6343,0.6164
